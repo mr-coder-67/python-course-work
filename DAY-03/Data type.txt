@@ -1,0 +1,41 @@
+numerator
+----
+ int      
+float                                           
+complex
+
+sequence
+------
+string immutable (you can change 
+
+list   collection of element in the list " "
+       list is order type
+       dynamic data type
+       heterogeneous
+       mutable(you can change the same memory)
+
+tuple   immutable
+        ex: google map(longitude, latitude)
+	fixed data type one you should change it's fixed can't be  
+	order
+	duplicate
+	heterogeneous 
+	t()
+mapping
+----
+set  - frozenset
+collection of item  
+     heterogeneous
+     mutable
+     unorder,unique 
+    {}
+dict    key value 
+	mutuble(
+
+Boolean	
+-----
+True
+False
+
+None
+---

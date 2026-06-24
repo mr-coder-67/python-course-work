@@ -1,0 +1,71 @@
+1.What is Procedural Programming Language?
+ 
+Procedural Programming Language Procedural Programming Language
+A procedural programming language is a type of imperative programming paradigm where a program is structured as a sequence of instructions (procedures/functions) that tell the computer what to do and how to do it, step by step.
+Core Concept
+The program is divided into reusable blocks called procedures (also called functions, routines, or subroutines). Execution flows from top to bottom, with calls to these procedures along the way.
+
+Key Characteristics
+
+Sequential execution — instructions run in a defined order
+Procedures/Functions — reusable named blocks of code
+Variables & State — data is stored and modified over time
+Control flow — uses loops (for, while), conditionals (if/else), and jumps
+Modularity — logic is broken into manageable, callable units
+Local & Global scope — variables have defined visibility
+                          
+                                      Input → Process → Output
+
+2.Introduction of Object Oriented Programming?
+
+As the name suggests, Object-Oriented Programming or OOPs refers to languages that use objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism, etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function.
+
+OOPs Concepts:
+
+Class : blueprint
+Objects ;
+Data Abstraction 
+Encapsulation
+Inheritance
+Polymorphism
+Dynamic Binding
+Message Passing
+
+3.What is Python?
+Python is a popular programming language. It was created by Guido van Rossum, and released in 1991.
+basic program:
+print("Hello World")
+
+It is used for:
+
+web development (server-side),
+software development,
+mathematics,
+system scripting.
+What can Python do?
+Python can be used on a server to create web applications.
+Python can be used alongside software to create workflows.
+Python can connect to database systems. It can also read and modify files.
+Python can be used to handle big data and perform complex mathematics.
+Python can be used for rapid prototyping, or for production-ready software development.
+
+4.Why Python?
+Python works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc).
+Python has a simple syntax similar to the English language.
+Python has syntax that allows developers to write programs with fewer lines than some other programming languages.
+Python runs on an interpreter system, meaning that code can be executed as soon as it is written. 
+Python Syntax compared to other programming languages
+Python was designed for readability, and has some similarities to the English language with influence from mathematics.
+
+5. Differences b/w memory allocation in Procedural and Object oriented Programming Language?
+
+| Basis                   | Procedural Programming Language                        | Object-Oriented Programming Language                        |
+| ----------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
+| Memory Allocation Style | Memory is allocated mainly to functions and variables. | Memory is allocated to objects and classes.                 |
+| Focus                   | Focuses on procedures/functions.                       | Focuses on objects containing data and methods.             |
+| Data Storage            | Data and functions are stored separately.              | Data and functions are stored together inside objects.      |
+| Dynamic Allocation      | Less use of dynamic memory allocation.                 | Frequently uses dynamic memory allocation for objects.      |
+| Encapsulation           | No data hiding or encapsulation.                       | Supports encapsulation and data hiding.                     |
+| Reusability             | Limited code reusability.                              | High code reusability through inheritance and objects.      |
+| Memory Management       | Simpler memory management.                             | More complex due to objects, inheritance, and polymorphism. |
+| Examples                | C, Pascal                                              | C++, Java, Python                                           |
