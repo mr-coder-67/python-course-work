@@ -107,4 +107,12 @@ print(len)
 # print(len(s))
 
 
+# scope is a concept about where variables can be seen or changed.
 
+# display is just a function name used in your examples.
+
+# So they are not the same:
+
+# scope = local vs global vs nonlocal rules
+# display = the example function used to show those rules
+# In your file, display() is reused for different examples, but the real topic is scope, not the name display.

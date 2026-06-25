@@ -69,6 +69,10 @@ def reverseofstr(s, ind):
     if ind == 0:
         return s[0]
     return s[ind] + reverseofstr(s, ind - 1)
+# The function reverses a string by using the last letter first.
+# s is the string, ind is the position of the current letter.
+# If ind == 0, it returns the first letter.
+# Otherwise it takes s[ind] and adds the result of the same function with ind - 1.
 
 l = "python"
 print(reverseofstr(l, len(l) - 1))
